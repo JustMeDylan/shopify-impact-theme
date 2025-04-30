@@ -57,7 +57,7 @@
           "settings": {
             "text": "Everything You need For A Joyful And Miraculous Tea Party",
             "heading_tag": "h3",
-            "text_color": "#1a1a1a",
+            "text_color": "#6fa200",
             "gradient": ""
           }
         },
@@ -70,6 +70,7 @@
         "image_Q9T8FH": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/plukttea_jerusalem-artichoke-1200x800_jpg.webp",
             "width_mode": "custom",
             "max_width": 600,
             "mobile_max_width": 400
@@ -96,7 +97,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#d7e7b4",
         "background_gradient": "",
         "text_color": ""
       }
@@ -106,8 +107,8 @@
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
         "liquid": "<style>\n  .fixed-side-by-side {\n    display: grid;\n    grid-template-columns: 1fr 1fr;\n    gap: 20px;\n    padding: 40px 0;\n    background-color: #f4f3ff;\n    text-align: center;\n  }\n\n  .fixed-side-by-side .image-block {\n    padding: 0 10px;\n  }\n\n  .fixed-side-by-side img {\n    width: 100%;\n    border-radius: 20px;\n    display: block;\n    margin: 0 auto;\n  }\n\n  .fixed-side-by-side h3 {\n    font-size: 18px;\n    margin-bottom: 5px;\n    color: #333;\n  }\n\n  .fixed-side-by-side p {\n    font-size: 14px;\n    color: #666;\n    margin-bottom: 15px;\n  }\n\n  @media screen and (max-width: 480px) {\n    .fixed-side-by-side {\n      grid-template-columns: 1fr 1fr; /* Still 2 columns on very small screens */\n    }\n  }\n</style>\n\n<div class=\"fixed-side-by-side\">\n  <div class=\"image-block\">\n    <h3>Dental Pod</h3>\n    <p>Ultrasonic cleaner</p>\n    <img src=\"https://cdn.shopify.com/s/files/1/0911/6103/5131/files/IMG_3771s_1024x1024_c7f96375-fb9b-49b6-a47f-8bc611b3c080.webp?v=1746041454\">\n  </div>\n  <div class=\"image-block\">\n    <h3>Zima Go</h3>\n    <p>UV disinfection case</p>\n    <img src=\"https://cdn.shopify.com/s/files/1/0911/6103/5131/files/IMG_6203s_750x750_381920e2-0e7a-4224-a370-e0aab6245d83.jpg?v=1746041465\">\n  </div>\n</div>",
         "background": "",
         "background_gradient": "",
