@@ -100,11 +100,11 @@
         "item_kbULmh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/H91153ce0cf5f40a0abecbbcff9833f7fR-Photoroom.jpg",
+            "image": "shopify://shop_images/assd.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Manually Harvested",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Our tea trees are grown in small organic farm and nurtured by the pure water of the Yulong Snow Mountain, Yunnan, Southwest China. The tea flowers are manually harvested during the peak time of the season producing the highest quality tea flowers. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -114,9 +114,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Carefully Selected",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>The manufacturing process is completely manual as each flower must be visually appealing and ready for optimal taste. </p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -126,9 +126,21 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Manually Crafted",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>After selecting the highest quality flower petals, it is gently steamed, hand shaped, and hand pressed by our tea artists with over a decade experience in tea making . None of the chemicals or preservatives were used during the process.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rxXkn9": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Delivered Fresh",
+            "heading_tag": "h4",
+            "content": "<p>Once the manufacturing is done, the tea blooms will be directly air shipped from the tea farm to our warehouse in Rockville, MD, then packed and shipped by our warehouse workers.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -138,17 +150,18 @@
       "block_order": [
         "item_kbULmh",
         "item_U8jy3D",
-        "item_x9QEBa"
+        "item_x9QEBa",
+        "item_rxXkn9"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "The Procedure",
+        "content": "<p>Our tea flowers are 100% manually picked and handcrafted. None of the chemicals or preservatives were added during the process.<br/><br/></p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
