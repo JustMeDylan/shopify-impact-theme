@@ -48,9 +48,9 @@
           "type": "variant_picker",
           "settings": {
             "hide_sold_out_variants": false,
-            "stack_blocks": true,
+            "stack_blocks": false,
             "selector_mode": "block",
-            "color_mode": "color",
+            "color_mode": "block",
             "size_chart_page": ""
           }
         },
