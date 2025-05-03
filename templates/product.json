@@ -113,6 +113,7 @@
         "item_U8jy3D": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_2341.png",
             "column_size": "3",
             "title": "Carefully Selected",
             "heading_tag": "h4",
@@ -125,6 +126,7 @@
         "item_x9QEBa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/9AE0DFF9-0273-4D45-8626-1F7125F84464_2.png",
             "column_size": "3",
             "title": "Manually Crafted",
             "heading_tag": "h4",
@@ -137,6 +139,7 @@
         "item_rxXkn9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Screen_Shot_2022-10-14_at_3.21.36_PM.png",
             "column_size": "3",
             "title": "Delivered Fresh",
             "heading_tag": "h4",
