@@ -176,8 +176,8 @@
         "heading_ea7rdd": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Everything you need in one box",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -185,7 +185,7 @@
         "richtext_wp7wmk": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>These carefully selected flowers will help enhance your quality of life across body, mind, and spirit.</p>"
           }
         },
         "image_VAQ3gi": {
