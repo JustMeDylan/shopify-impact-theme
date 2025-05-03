@@ -65,25 +65,18 @@
             "payment_button_text_color": ""
           }
         },
-        "collapsible_text_cMjB3U": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Product Details",
-            "content": "<p>Share some content to your customers about your products.</p>"
-          }
-        },
         "collapsible_text_yfN78U": {
           "type": "collapsible_text",
           "settings": {
             "title": "What's Inside & Drinking guide",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "content": "<p><strong> </strong>Each Pack Contains - <strong>18 hand-crafted Flowering Tea Bloom</strong>with<strong>9 purely delightful flavors</strong>. Includes: 2 blooms (Each) Rose Petal , Rose Bud, Yellow Chrysanthemum, Peony flower, Mixed flower (Blend of rose, calendula, Jasmine & Chrysanthemum), Hibiscus, Carnation, Lily. <strong>No chemicals, preservatives were added and sugar free. Teapot doesn't come with the single pack (18 pieces) and 2 packs (36 pieces) </strong></p>"
           }
         },
         "collapsible_text_VK4MGg": {
           "type": "collapsible_text",
           "settings": {
             "title": "Blending Notes",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "content": "<p><strong>AROMA AND PALATE <br/></strong>Flower scent, Non sweetened, Caffeine free,<br/><br/><strong>PURPOSE<br/></strong>Support your body's detox process and mood booster. <br/><strong><br/>PACKING<br/></strong>Hand-picked at the peak of freshness, each flowering tea bloom is individually packed in foil to protect its fragrance.<br/><br/></p>"
           }
         },
         "collapsible_text_q4n9Fq": {
@@ -103,7 +96,6 @@
         "description",
         "variant_picker",
         "buy_buttons",
-        "collapsible_text_cMjB3U",
         "collapsible_text_yfN78U",
         "collapsible_text_VK4MGg",
         "collapsible_text_q4n9Fq"
