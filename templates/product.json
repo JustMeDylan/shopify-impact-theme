@@ -225,12 +225,70 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "multiple_images_with_text_DyKkKw": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_jacYrY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/My_Gif_17_480x480_11a495df-7134-402c-9dd9-7b93ba472575.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Step 1",
+            "content": "<p>Take one tea bloom and drop it into a teapot.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_NjLfiT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/My_Gif_17_copy_1_480x480_299a6650-ffd9-4ba3-ba5e-379972a65424.webp",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Step 2",
+            "content": "<p>Fill your teapot with 33 oz boiled water.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_NYmz3X": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/My_Gif_17_copy_2_480x480_9400d286-36b6-4c7b-92f9-b7cd00b3c191.webp",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Step 3",
+            "content": "<p>Wait for 5+ minutes to see the full bloom and enjoy!</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_jacYrY",
+        "item_NjLfiT",
+        "item_NYmz3X"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "multi_column_dMgY86",
     "rich_text_PHT7X8",
-    "custom_liquid_ghbXEV"
+    "custom_liquid_ghbXEV",
+    "multiple_images_with_text_DyKkKw"
   ]
 }
