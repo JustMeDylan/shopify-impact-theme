@@ -15,7 +15,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "price": {
@@ -64,6 +64,34 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "collapsible_text_cMjB3U": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Product Details",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_yfN78U": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "What's Inside & Drinking guide",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_VK4MGg": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Blending Notes",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
+        "collapsible_text_q4n9Fq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping & Returns",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
         }
       },
       "block_order": [
@@ -74,7 +102,11 @@
         "separator",
         "description",
         "variant_picker",
-        "buy_buttons"
+        "buy_buttons",
+        "collapsible_text_cMjB3U",
+        "collapsible_text_yfN78U",
+        "collapsible_text_VK4MGg",
+        "collapsible_text_q4n9Fq"
       ],
       "settings": {
         "full_width": true,
