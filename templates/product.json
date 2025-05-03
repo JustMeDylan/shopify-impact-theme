@@ -226,6 +226,32 @@
         "text_color": ""
       }
     },
+    "rich_text_RLhh8p": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rwRmtg": {
+          "type": "heading",
+          "settings": {
+            "text": "How To Make It Bloom",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rwRmtg"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multiple_images_with_text_DyKkKw": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -289,6 +315,7 @@
     "multi_column_dMgY86",
     "rich_text_PHT7X8",
     "custom_liquid_ghbXEV",
+    "rich_text_RLhh8p",
     "multiple_images_with_text_DyKkKw"
   ]
 }
