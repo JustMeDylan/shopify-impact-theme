@@ -20,10 +20,18 @@
             "text": "Free Shipping Over $45",
             "url": ""
           }
+        },
+        "message_NE6keM": {
+          "type": "message",
+          "settings": {
+            "text": "25% OFF WITH CODE: BLOOM25",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_NE6keM"
       ],
       "settings": {
         "enable_sticky": false,
