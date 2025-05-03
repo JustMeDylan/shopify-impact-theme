@@ -23,7 +23,7 @@
             "title": "Blooming Teas",
             "heading_tag": "h5",
             "button_text": "View All",
-            "button_link": "",
+            "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
