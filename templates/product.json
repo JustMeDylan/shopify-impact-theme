@@ -24,26 +24,6 @@
             "show_taxes_notice": false
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -90,10 +70,6 @@
       "block_order": [
         "title",
         "price",
-        "rating",
-        "payment_terms",
-        "separator",
-        "description",
         "variant_picker",
         "buy_buttons",
         "collapsible_text_yfN78U",
