@@ -170,63 +170,57 @@
         "text_color": ""
       }
     },
-    "text_with_icons_xNDpgq": {
-      "type": "text-with-icons",
+    "rich_text_PHT7X8": {
+      "type": "rich-text",
       "blocks": {
-        "item_7N9hKt": {
-          "type": "item",
+        "heading_ea7rdd": {
+          "type": "heading",
           "settings": {
-            "icon": "picto-coupon",
-            "custom_icon": "shopify://shop_images/51T0FR-Kg4L._AC.jpg",
-            "mobile_icon_width": 56,
-            "icon_width": 84,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         },
-        "item_YhMt3T": {
-          "type": "item",
+        "richtext_wp7wmk": {
+          "type": "richtext",
           "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
-        "item_DLkYXG": {
-          "type": "item",
+        "image_VAQ3gi": {
+          "type": "image",
           "settings": {
-            "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.</p>"
+            "image": "shopify://shop_images/IMG_4686s_2.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
           }
         }
       },
       "block_order": [
-        "item_7N9hKt",
-        "item_YhMt3T",
-        "item_DLkYXG"
+        "heading_ea7rdd",
+        "richtext_wp7wmk",
+        "image_VAQ3gi"
       ],
-      "name": "Text with icons",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
-        "title": "",
-        "heading_tag": "h5",
-        "text_alignment": "center",
-        "icon_spacing": "medium",
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_ghbXEV": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Dental Section</title>\n<style>\n.dental-section {\ndisplay: flex;\nflex-direction: column;\ngap: 0px; /* Space between the blocks */\npadding: 0px;\nfont-family: Arial, sans-serif;\n}\n\n.dental-block {\ndisplay: flex;\nalign-items: center;\ngap: 20px; /* Space between the image and text */\npadding: 0px 0; /* Reduced vertical padding */\nbox-sizing: border-box;\n}\n\n.dental-block img {\nwidth: 100px; /* Fixed width for images */\nheight: auto;\n}\n\n.dental-block div {\ntext-align: left; /* Align the text to the left */\n}\n\n.dental-block h3, .dental-block h3 {\nfont-size: 18px; /* Font size for headings */\nmargin: 0;\n}\n\n.dental-block p {\nfont-size: 14px; /* Font size for paragraphs */\nmargin: 0;\n}\n</style>\n</head>\n<body>\n<div class=\"dental-section\">\n<div class=\"dental-block\">\n<img src=\"https://cdn.shopify.com/s/files/1/0911/6103/5131/files/51T0FR-Kg4L._AC.jpg?v=1746286213\" alt=\"Dental Appliance\">\n<div>\n<h3>PP-Cotton</h3> <!-- Corrected tag to h3 -->\n<p>This soft cotton layer effectively traps dirt, dust, and impurities, leaving your skin smoother and more refreshed.</p>\n</div>\n</div>\n<div class=\"dental-block\">\n<img src=\"https://cdn.shopify.com/s/files/1/0858/0884/1047/files/3.png?v=1727110702\" alt=\"Ultrasound\">\n<div>\n<h3>Coconut Activated Carbon</h3>\n<p>Made from natural coconut shells, this filter absorbs harmful chemicals like chlorine, oxygen, and fluorine as water flows through, delivering cleaner, purer water.</p>\n</div>\n</div>\n<div class=\"dental-block\">\n<img src=\"https://cdn.shopify.com/s/files/1/0858/0884/1047/files/4_019854af-b243-4198-ae07-52b646813389.png?v=1727110702\" alt=\"Healthy Teeth\">\n<div>\n<h3>Calcium Sulfite</h3>\n<p>Removes chlorine and chloramines from your shower water, leaving your skin deeply moisturized and healthy.</p>\n</div>\n</div>\n</div>\n</body>\n</html>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -236,6 +230,7 @@
   "order": [
     "main",
     "multi_column_dMgY86",
-    "text_with_icons_xNDpgq"
+    "rich_text_PHT7X8",
+    "custom_liquid_ghbXEV"
   ]
 }
