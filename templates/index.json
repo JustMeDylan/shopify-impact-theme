@@ -234,8 +234,12 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
-        "products": [],
+        "collection": "specials",
+        "products": [
+          "jasmine-green-tea",
+          "flowering-tea-blooms",
+          "flowering-black-tea-bloom"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
