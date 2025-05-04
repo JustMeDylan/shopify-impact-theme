@@ -1,0 +1,101 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": false,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#b01c2c",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "collapsible_text_yfN78U": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "What's Inside & Drinking guide",
+            "content": "<p>Each Pack Contains - <strong>18 hand-crafted Flowering Tea Bloom </strong>with <strong>6 purely delightful flavors</strong>. Includes: 2 blooms (Each) Rose Corolla flower , Golden Aster flower, Chrysanthemum flower, Peony flower, Lily flower, Jasmine flower. <strong>No chemicals, preservatives,sugar were added in the making - all organic.<br/><br/>DRINKING NOTE<br/></strong>Each individual tea bloom is perfect for a 1L clear teapot. 18 flowering tea blooms can make at least 54 cups of tea.<br/><br/></p>"
+          }
+        },
+        "collapsible_text_VK4MGg": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Blending Notes",
+            "content": "<p><strong>AROMA AND PALATE <br/></strong>Flower scent, Non sweetened, Caffeine free,<br/><br/><strong>PURPOSE<br/></strong>Support your body's detox process and mood booster. <br/><strong><br/>PACKING<br/></strong>Hand-picked at the peak of freshness, each flowering tea bloom is individually packed in foil to protect its fragrance.<br/><br/></p>"
+          }
+        },
+        "collapsible_text_q4n9Fq": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Shipping & Returns",
+            "content": "<p><strong>Shipping and Delivery </strong></p><p>Free Standard Shipping on orders over £35.00 to the Contiguous UK. Our Standard Shipping time is 4-6 business days.<br/><br/><strong>Returns</strong></p><p>We accept returns within 7 days of delivery. If you don't like the product, we will happily refund your order after as soon as we get the return item.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "variant_picker",
+        "buy_buttons",
+        "collapsible_text_yfN78U",
+        "collapsible_text_VK4MGg",
+        "collapsible_text_q4n9Fq"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": false,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
