@@ -48,15 +48,8 @@
         "collapsible_text_yfN78U": {
           "type": "collapsible_text",
           "settings": {
-            "title": "What's Inside & Drinking guide",
-            "content": "<p>Each Pack Contains - <strong>18 hand-crafted Flowering Tea Bloom </strong>with <strong>6 purely delightful flavors</strong>. Includes: 2 blooms (Each) Rose Corolla flower , Golden Aster flower, Chrysanthemum flower, Peony flower, Lily flower, Jasmine flower. <strong>No chemicals, preservatives,sugar were added in the making - all organic.<br/><br/>DRINKING NOTE<br/></strong>Each individual tea bloom is perfect for a 1L clear teapot. 18 flowering tea blooms can make at least 54 cups of tea.<br/><br/></p>"
-          }
-        },
-        "collapsible_text_VK4MGg": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Blending Notes",
-            "content": "<p><strong>AROMA AND PALATE <br/></strong>Flower scent, Non sweetened, Caffeine free,<br/><br/><strong>PURPOSE<br/></strong>Support your body's detox process and mood booster. <br/><strong><br/>PACKING<br/></strong>Hand-picked at the peak of freshness, each flowering tea bloom is individually packed in foil to protect its fragrance.<br/><br/></p>"
+            "title": "Description & Drinking guide",
+            "content": "<p>Delicately floral and refreshingly smooth, our <strong>Jasmine Green Tea</strong> is a timeless classic crafted from <strong>premium green tea leaves infused with real jasmine blossoms</strong>. Handpicked and naturally scented using the traditional layering method, the leaves absorb the sweet, soothing aroma of freshly bloomed jasmine flowers.</p><p>Each sip offers a <strong>lightly sweet, floral flavor</strong> with a clean, grassy undertone—perfect for calming the mind, boosting focus, and gently refreshing your senses throughout the day.<strong><br/><br/>DRINKING NOTE<br/><br/>Recommended serving:</strong> 1 teaspoon (approx. 2g) per cup</p><h3>👉 Brewing Instructions:</h3><p><br/> 80–85°C (176–185°F) – do not use boiling water<br/></p><p><br/> 1 tsp (2g) per 250ml cup<br/></p><p><br/> 2–3 minutes<br/></p><p><br/> Can be re-steeped 2–3 times<br/></p><p>☕ <em>For best flavor, avoid over-steeping to prevent bitterness. Use filtered water if possible.</em><br/><br/></p>"
           }
         },
         "collapsible_text_q4n9Fq": {
@@ -73,7 +66,6 @@
         "variant_picker",
         "buy_buttons",
         "collapsible_text_yfN78U",
-        "collapsible_text_VK4MGg",
         "collapsible_text_q4n9Fq"
       ],
       "settings": {
