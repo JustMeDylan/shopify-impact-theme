@@ -55,9 +55,10 @@
         "image_yLPfay": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/MG_4699.png",
+            "title": "Green Teas",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/green-tea",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -76,9 +77,10 @@
         "image_RE9kzz": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/H91153ce0cf5f40a0abecbbcff9833f7fR-Photoroom.png",
+            "title": "Blooming Tea Balls",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://products/flowering-tea-blooms",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -97,9 +99,10 @@
         "image_rHtE48": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/H8884980e1339474cb28b7eb7d7a03caan.jpg",
+            "title": "Herbal Teas",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/herbal-tea",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
