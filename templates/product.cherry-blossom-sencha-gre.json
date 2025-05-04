@@ -48,15 +48,8 @@
         "collapsible_text_yfN78U": {
           "type": "collapsible_text",
           "settings": {
-            "title": "What's Inside & Drinking guide",
-            "content": "<p>Each Pack Contains - <strong>18 hand-crafted Flowering Tea Bloom </strong>with <strong>6 purely delightful flavors</strong>. Includes: 2 blooms (Each) Rose Corolla flower , Golden Aster flower, Chrysanthemum flower, Peony flower, Lily flower, Jasmine flower. <strong>No chemicals, preservatives,sugar were added in the making - all organic.<br/><br/>DRINKING NOTE<br/></strong>Each individual tea bloom is perfect for a 1L clear teapot. 18 flowering tea blooms can make at least 54 cups of tea.<br/><br/></p>"
-          }
-        },
-        "collapsible_text_VK4MGg": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Blending Notes",
-            "content": "<p><strong>AROMA AND PALATE <br/></strong>Flower scent, Non sweetened, Caffeine free,<br/><br/><strong>PURPOSE<br/></strong>Support your body's detox process and mood booster. <br/><strong><br/>PACKING<br/></strong>Hand-picked at the peak of freshness, each flowering tea bloom is individually packed in foil to protect its fragrance.<br/><br/></p>"
+            "title": "Description & Drinking guide",
+            "content": "<p>Delicate, floral, and refreshingly smooth—our <strong>Cherry Blossom Sencha Green Tea</strong> is a luxurious blend of <strong>premium Japanese sencha green tea</strong> and <strong>real cherry blossom petals</strong>, artfully crafted to capture the fleeting beauty of spring in every cup.</p><p>The grassy, slightly sweet notes of sencha are perfectly balanced with the soft floral aroma and subtle fruitiness of cherry blossoms, creating a tea that is both uplifting and calming. Ideal for quiet mornings, afternoon breaks, or a gentle moment of self-care.<strong><br/><br/>DRINKING NOTE<br/>Recommended serving:</strong> 1 teaspoon (2g) per 250ml cup</p><h6>Brewing Instructions:</h6><p>1. 75–80°C (167–176°F) – do not use boiling water<br/></p><p>2. 1 tsp (2g) per cup<br/></p><p>3. 1.5–2 minutes<br/></p><p>4. Leaves can be steeped 2–3 times<br/></p><p>☑️ <em>For best taste, avoid over-steeping. Use filtered water to bring out the natural sweetness of the tea.</em><br/><br/><br/></p>"
           }
         },
         "collapsible_text_q4n9Fq": {
@@ -73,7 +66,6 @@
         "variant_picker",
         "buy_buttons",
         "collapsible_text_yfN78U",
-        "collapsible_text_VK4MGg",
         "collapsible_text_q4n9Fq"
       ],
       "settings": {
