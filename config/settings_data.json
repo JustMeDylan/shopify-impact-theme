@@ -23,6 +23,7 @@
     "header_text_color": "#1a1a1a",
     "footer_background": "#ffffff",
     "footer_text_color": "#1a1a1a",
+    "dialog_background": "#ffffff",
     "primary_button_background": "#b01c2c",
     "primary_button_text_color": "#ffffff",
     "secondary_button_background": "#000000",
