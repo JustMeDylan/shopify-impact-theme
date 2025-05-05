@@ -308,6 +308,33 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "related_products_cQHHwa": {
+      "type": "related-products",
+      "name": "Related products",
+      "settings": {
+        "recommendations_count": 6,
+        "products": [
+          "flowering-tea-blooms",
+          "jasmine-green-tea",
+          "calendula-tea"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -316,6 +343,7 @@
     "rich_text_PHT7X8",
     "custom_liquid_ghbXEV",
     "rich_text_RLhh8p",
-    "multiple_images_with_text_DyKkKw"
+    "multiple_images_with_text_DyKkKw",
+    "related_products_cQHHwa"
   ]
 }
