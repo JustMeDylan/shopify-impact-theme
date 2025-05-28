@@ -42,6 +42,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_FPXPV9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Order_by_midnight.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "collapsible_text_yfN78U": {
           "type": "collapsible_text",
           "settings": {
@@ -62,14 +70,6 @@
             "title": "Shipping & Returns",
             "content": "<p><strong>Shipping and Delivery </strong></p><p>Free Standard Shipping on orders over £25.00 to the Contiguous UK. Our Standard Shipping time is 4-6 business days.<br/><br/><strong>Returns</strong></p><p>We accept returns within 7 days of delivery. If you don't like the product, we will happily refund your order after as soon as we get the return item.</p>"
           }
-        },
-        "image_FPXPV9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_1.png",
-            "alignment": "start",
-            "max_width": 500
-          }
         }
       },
       "block_order": [
@@ -77,10 +77,10 @@
         "price",
         "text_FLMBRc",
         "buy_buttons",
+        "image_FPXPV9",
         "collapsible_text_yfN78U",
         "collapsible_text_VK4MGg",
-        "collapsible_text_q4n9Fq",
-        "image_FPXPV9"
+        "collapsible_text_q4n9Fq"
       ],
       "settings": {
         "full_width": true,
