@@ -24,14 +24,10 @@
             "show_taxes_notice": false
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
+        "text_FLMBRc": {
+          "type": "text",
           "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": false,
-            "selector_mode": "block",
-            "color_mode": "block",
-            "size_chart_page": ""
+            "text": "<p>✔️ <strong>Burn 10x More Calories</strong> - Maximize your workout in less time</p><p>✔️<strong>Feel Good Fitness </strong>- A fun way to get fit</p><p>✔️<strong>Whisper-Quiet</strong> – Enjoy intense workouts without any noise<br/><br/></p>"
           }
         },
         "buy_buttons": {
@@ -70,7 +66,7 @@
       "block_order": [
         "title",
         "price",
-        "variant_picker",
+        "text_FLMBRc",
         "buy_buttons",
         "collapsible_text_yfN78U",
         "collapsible_text_VK4MGg",
@@ -156,7 +152,6 @@
         "item_x9QEBa",
         "item_rxXkn9"
       ],
-      "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -203,7 +198,6 @@
         "richtext_wp7wmk",
         "image_VAQ3gi"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -215,7 +209,6 @@
     },
     "custom_liquid_ghbXEV": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -242,7 +235,6 @@
       "block_order": [
         "heading_rwRmtg"
       ],
-      "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -297,7 +289,6 @@
         "item_NjLfiT",
         "item_NYmz3X"
       ],
-      "name": "Multiple images with text",
       "settings": {
         "full_width": true,
         "images_layout": "stacked",
@@ -311,7 +302,6 @@
     },
     "related_products_GY37tQ": {
       "type": "related-products",
-      "name": "Related products",
       "settings": {
         "recommendations_count": 6,
         "products": [
