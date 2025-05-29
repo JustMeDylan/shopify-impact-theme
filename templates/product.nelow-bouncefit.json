@@ -45,7 +45,7 @@
         "image_FPXPV9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Order_by_midnight.png",
+            "image": "shopify://shop_images/Order_by_midnight_1.png",
             "alignment": "start",
             "max_width": 500
           }
