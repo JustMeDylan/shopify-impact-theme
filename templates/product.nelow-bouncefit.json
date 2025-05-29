@@ -91,11 +91,11 @@
         "item_kbULmh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/assd.png",
+            "video": "shopify://files/videos/91c9af93730345728240488fce5bb00e.HD-720p-1.6Mbps-46338302.mp4",
             "column_size": "3",
-            "title": "Manually Harvested",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Our tea trees are grown in small organic farm and nurtured by the pure water of the Yulong Snow Mountain, Yunnan, Southwest China. The tea flowers are manually harvested during the peak time of the season producing the highest quality tea flowers. </p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -104,11 +104,11 @@
         "item_U8jy3D": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_2341.png",
+            "video": "shopify://files/videos/c857b764b29b49d9b4b2eb55a5d9c1f6.HD-720p-1.6Mbps-46337109.mp4",
             "column_size": "3",
-            "title": "Carefully Selected",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>The manufacturing process is completely manual as each flower must be visually appealing and ready for optimal taste. </p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -118,10 +118,11 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/9AE0DFF9-0273-4D45-8626-1F7125F84464_2.png",
+            "video": "shopify://files/videos/e9f3d2f217bb415792664c0379f7b2a1.HD-720p-1.6Mbps-46337042.mp4",
             "column_size": "3",
-            "title": "Manually Crafted",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>After selecting the highest quality flower petals, it is gently steamed, hand shaped, and hand pressed by our tea artists with over a decade experience in tea making . None of the chemicals or preservatives were used during the process.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -139,8 +140,8 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "The Procedure",
-        "content": "<p>Our tea flowers are 100% manually picked and handcrafted. None of the chemicals or preservatives were added during the process.<br/><br/></p>",
+        "title": "Loved by thousdands...",
+        "content": "",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
