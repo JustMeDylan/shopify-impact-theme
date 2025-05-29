@@ -152,8 +152,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "Real People Real Results",
+        "content": "<p>Real transformation starts with one bounce. WIth consistent use, BounceFit users report visible results in as little as 30 days - more tone, more energy, and a more fit, healthier you. </p>",
         "before_image": "shopify://shop_images/beforeed.png",
         "after_image": "shopify://shop_images/aftered.png",
         "expand_image": false,
