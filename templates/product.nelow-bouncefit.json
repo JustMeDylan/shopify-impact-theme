@@ -126,26 +126,12 @@
             "link_text": "",
             "link_style": "link"
           }
-        },
-        "item_rxXkn9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Screen_Shot_2022-10-14_at_3.21.36_PM.png",
-            "column_size": "3",
-            "title": "Delivered Fresh",
-            "heading_tag": "h4",
-            "content": "<p>Once the manufacturing is done, the tea blooms will be directly air shipped from the tea farm to our warehouse in London, then packed and shipped by our warehouse team.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
         }
       },
       "block_order": [
         "item_kbULmh",
         "item_U8jy3D",
-        "item_x9QEBa",
-        "item_rxXkn9"
+        "item_x9QEBa"
       ],
       "settings": {
         "full_width": true,
